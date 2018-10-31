@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\ExamenUnidad3\ExamenUnidad3\bin\Debug\ExamenUnidad3.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\ExamenUnidad3\ExamenUnidad3\bin\Debug\ExamenUnidad3.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\ExamenUnidad3\ExamenUnidad3\bin\Debug\ExamenUnidad3.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\ExamenUnidad3\ExamenUnidad3\obj\Debug\ExamenUnidad3.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\ExamenUnidad3\ExamenUnidad3\obj\Debug\ExamenUnidad3.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\ExamenUnidad3\ExamenUnidad3\obj\Debug\ExamenUnidad3.pdb
